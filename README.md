@@ -1,2 +1,0 @@
-# SecStudies
-Security studies work
